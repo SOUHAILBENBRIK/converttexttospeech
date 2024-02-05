@@ -39,4 +39,4 @@ Make sure you have Python installed on your machine.
 4. Execute the cell containing the code to convert the entered text to speech and listen to the output.
 
 ### ScreenShot
-![1.screenshot](https://github.com/SOUHAILBENBRIK/fitness-app/blob/master/public/Capture.PNG)
+![1.screenshot](https://github.com/SOUHAILBENBRIK/converttexttospeech/blob/master/Capture.PNG)
