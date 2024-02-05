@@ -26,9 +26,9 @@ Make sure you have Python installed on your machine.
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/SOUHAILBENBRIK/fitness-app.git
+   git clone https://github.com/SOUHAILBENBRIK/converttexttospeech
 2. Navigate to the project directory:
-   cd fitness-app
+   cd converttexttospeech
 3.Install the project dependencies:
    pip install pyttsx3
 ### Usage
